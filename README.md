@@ -23,7 +23,7 @@
 </br>
 
 <h3>Connect with me: </h3>
-<a href=https://www.linkedin.com/in/berk-yaln%C4%B1zc%C4%B1k-4385151b6 target="_blank">
+<a href=https://www.linkedin.com/in/berkyalnizcik target="_blank">
 <img alt="Linkedin" width="36px" src=https://img2.pngindir.com/20180406/jpq/kisspng-linkedin-logo-computer-icons-comcast-business-get-started-now-button-5ac6f544698595.9898331815229883564322.jpg />
 <a href=https://www.instagram.com/berk_yalnizcik target="_blank">
 <img alt="Instagram" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />
